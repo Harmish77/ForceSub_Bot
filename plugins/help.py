@@ -17,7 +17,7 @@ async def _start(client, message):
             if user.status == "kicked":
                await client.send_message(
                    chat_id=message.chat.id,
-                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/Techno_Trickop).",
+                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/NewHDMovieNight).",
                    parse_mode="markdown",
                    disable_web_page_preview=True
                )
@@ -42,11 +42,11 @@ async def _start(client, message):
 	        reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/Techno_Trickop"),
-                           InlineKeyboardButton("Support Group", url="https://t.me/Techno_Trickop")
+                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/NewHDMovieNight"),
+                           InlineKeyboardButton("Support Group", url="https://t.me/NewHDMovieNight")
                       ],
                      [
-                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/herox_xd")
+                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/Harmishhk")
                      ]
                  ]
              ),
@@ -59,11 +59,11 @@ async def _start(client, message):
 	reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/Techno_Trickop"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/Techno_Trickop")
+                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/NewHDMovieNight"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/NewHDMovieNight")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/herox_xd")
+                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/Harmishhk")
                 ]
             ]
         ),
@@ -86,7 +86,7 @@ async def _source_code(client, message):
                     InlineKeyboardButton("Support Group", url="https://t.me/Techno_Trickop")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/herox_xd")
+                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/Harmishhk")
                 ]
             ]
         ),
@@ -103,7 +103,7 @@ async def _help(client, message):
             if user.status == "kicked":
                await client.send_message(
                    chat_id=message.chat.id,
-                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/Techno_Trickop).",
+                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/NewHDMovieNight).",
                    parse_mode="markdown",
                    disable_web_page_preview=True
                )
@@ -125,7 +125,7 @@ async def _help(client, message):
         except Exception:
             await client.send_message(
                 chat_id=message.chat.id,
-                text="Hey use this command in my pm. \nFor more help ask in my [Support Group](https://t.me/Techno_Trickop).",
+                text="Hey use this command in my pm. \nFor more help ask in my [Support Group](https://t.me/NewHDMovieNight).",
                 parse_mode="markdown",
                 disable_web_page_preview=True)
             return
