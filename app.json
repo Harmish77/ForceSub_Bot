@@ -31,12 +31,12 @@
         },
         "UPDATES_CHANNEL": {
             "description": "Your bot updates channel username without @ or leave empty",
-            "value": "Techno_Trickop",
+            "value": "Harmishhk",
             "required": false
         },
         "SUDO_USERS": {
             "description": "Sudo users (Goto @JVToolsBot and send /id to get your id)",
-            "value": "5124507794",
+            "value": "1240066432",
             "required": false
         }
     },
