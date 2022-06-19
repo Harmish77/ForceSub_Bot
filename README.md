@@ -1,4 +1,4 @@
-# <p align="center"><a href="https://github.com/herox-xd/ForceSub_Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=herox-xd&show_icons=true&theme=dracula&hide_border=true&repo=Forcesub_Bot"></a></p>
+# <p align="center"><a href="https://github.com/Harmish77/ForceSub_Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Harmish77&show_icons=true&theme=dracula&hide_border=true&repo=Forcesub_Bot"></a></p>
 <p align="center">
 
 ## Deploy
